@@ -27,6 +27,7 @@ public class contoh1 {
       System.out.print(senaraiRumahSukan [i]+ "\t");
       System.out.print(senaraiMata [i]);
       System.out.println();
+      System.oyt.println(Github);
       }
 
    } 
